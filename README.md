@@ -1,6 +1,6 @@
 ## react settings
 
-### babel dependencies
+### babel dependencies (js사용시)
 npm i --save-dev babel-loader @babel/preset-env @babel/core @babel/plugin-transform-runtime @babel/preset-react @babel/eslint-parser @babel/runtime @babel/cli
 
 ### linter
